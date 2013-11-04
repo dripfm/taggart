@@ -1,0 +1,1 @@
+require 'taggart_base'
